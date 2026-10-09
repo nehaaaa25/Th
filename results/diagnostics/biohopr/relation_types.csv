@@ -1,0 +1,13 @@
+relation_hop2,hop2_type,hop1_type,target_type,n_rows
+drug:gene/protein:disease,drug,gene/protein,disease,3029
+disease:drug:effect/phenotype,disease,drug,effect/phenotype,949
+disease:gene/protein:drug,disease,gene/protein,drug,899
+gene/protein:disease:drug,gene/protein,disease,drug,577
+effect/phenotype:disease:drug,effect/phenotype,disease,drug,546
+gene/protein:drug:disease,gene/protein,drug,disease,462
+disease:drug:gene/protein,disease,drug,gene/protein,381
+drug:disease:gene/protein,drug,disease,gene/protein,321
+effect/phenotype:drug:disease,effect/phenotype,drug,disease,215
+drug:disease:effect/phenotype,drug,disease,effect/phenotype,213
+disease:effect/phenotype:drug,disease,effect/phenotype,drug,36
+drug:effect/phenotype:disease,drug,effect/phenotype,disease,5

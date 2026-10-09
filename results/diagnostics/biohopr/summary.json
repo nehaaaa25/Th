@@ -1,0 +1,42 @@
+{
+  "answer_list_length": {
+    "max": 890,
+    "mean": 36.64849993449496,
+    "median": 11.0,
+    "min": 1,
+    "n": 7633,
+    "p25": 3.0,
+    "p75": 35.0,
+    "p90": 102.0,
+    "p95": 174.0,
+    "p99": 325.3600000000006
+  },
+  "answer_list_length_median": 11.0,
+  "answer_list_length_p90": 102.0,
+  "answer_list_length_p99": 325.3600000000006,
+  "answer_set_size": {
+    "max": 890,
+    "mean": 36.64849993449496,
+    "median": 11.0,
+    "min": 1,
+    "n": 7633,
+    "p25": 3.0,
+    "p75": 35.0,
+    "p90": 102.0,
+    "p95": 174.0,
+    "p99": 325.3600000000006
+  },
+  "biohopr_revision": "08f06692c3900347e7405ba55ff6a6d330f55ddb",
+  "largest_answers_k": 20,
+  "largest_answers_ties_beyond_k": 0,
+  "n_duplicate_groups_gt1_answer_set": 0,
+  "n_duplicate_groups_gt1_bridge": 0,
+  "n_duplicate_groups_gt1_bridge_and_gt1_answer_set": 0,
+  "n_duplicate_question_groups": 0,
+  "n_relation_types": 12,
+  "n_rows": 7633,
+  "n_rows_in_duplicate_question_groups": 0,
+  "n_rows_type_fields_disagree_with_relation_hop2": 0,
+  "n_rows_with_repeated_answer_names": 0,
+  "percentile_method": "numpy.percentile method='linear'"
+}

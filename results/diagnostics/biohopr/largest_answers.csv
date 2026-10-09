@@ -1,0 +1,21 @@
+rank,row_id,relation_hop2,hop2,hop1,list_length,set_size,hop2_question_multi
+1,BH2_04582,drug:disease:gene/protein,Aripiprazole lauroxil,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Aripiprazole lauroxil.
+2,BH2_04604,drug:disease:gene/protein,Blonanserin,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Blonanserin.
+3,BH2_04625,drug:disease:gene/protein,Chlorprothixene,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Chlorprothixene.
+4,BH2_04698,drug:disease:gene/protein,Flupentixol,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Flupentixol.
+5,BH2_04700,drug:disease:gene/protein,Fluspirilene,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Fluspirilene.
+6,BH2_04713,drug:disease:gene/protein,Iloperidone,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Iloperidone.
+7,BH2_04737,drug:disease:gene/protein,Lumateperone,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Lumateperone.
+8,BH2_04743,drug:disease:gene/protein,Mesoridazine,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Mesoridazine.
+9,BH2_04750,drug:disease:gene/protein,Molindone,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Molindone.
+10,BH2_04752,drug:disease:gene/protein,Mosapramine,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Mosapramine.
+11,BH2_04770,drug:disease:gene/protein,Oxypertine,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Oxypertine.
+12,BH2_04783,drug:disease:gene/protein,Perospirone,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Perospirone.
+13,BH2_04799,drug:disease:gene/protein,Prochlorperazine,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Prochlorperazine.
+14,BH2_04817,drug:disease:gene/protein,Sertindole,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Sertindole.
+15,BH2_04829,drug:disease:gene/protein,Sulpiride,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Sulpiride.
+16,BH2_04850,drug:disease:gene/protein,Thiothixene,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Thiothixene.
+17,BH2_04880,drug:disease:gene/protein,Zuclopenthixol,schizophrenia,890,890,Name all gene/proteins that are related to disease that is treated by drug Zuclopenthixol.
+18,BH2_04560,drug:disease:gene/protein,Acamprosate,substance abuse/dependence,496,496,Name all gene/proteins that are related to disease that is treated by drug Acamprosate.
+19,BH2_04652,drug:disease:gene/protein,Disulfiram,substance abuse/dependence,496,496,Name all gene/proteins that are related to disease that is treated by drug Disulfiram.
+20,BH2_04758,drug:disease:gene/protein,Nalmefene,substance abuse/dependence,496,496,Name all gene/proteins that are related to disease that is treated by drug Nalmefene.
