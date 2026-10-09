@@ -9,9 +9,12 @@ S1
 S2 — BioHopR loader. 18/18 tests pass (incl. real-file test); audit found no science/gate problems.
   Question-text field selected: `hop2_question_multi` ("Name all …").
   Protocol §3.1 revision and question field filled in ([FROZEN] at S2); decision-log entry added.
+  Post-S2 repo hygiene: requirements.lock (exact versions), requires-python >=3.12 (the lock needs
+  it), README Reproduce/Contribute/Data credits. Fresh-clone check: 17 passed + 1 skipped before
+  the BioHopR download, 18 passed after; S2 outputs regenerate identically.
 
 ## Latest commit
-—
+253af63 (README: Reproduce, Contribute and Data credits sections)
 
 ## Numbers to remember (filled as you go)
 - BioHopR revision (S2): 08f06692c3900347e7405ba55ff6a6d330f55ddb (BioHopR.json SHA256 1adda2f23d305c394537e7b56d3e972b2d8f4141ae716ede54e0d08876eb527d)
