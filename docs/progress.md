@@ -17,6 +17,13 @@ S3 — BioHopR diagnostics. 27/27 tests pass; audit found no science/gate proble
   Answer-size median 11, p90 102, p99 325.36.
   Duplicate question texts: 0 (exact and normalised).
 
+S4 (in progress) — inspection only, no code yet. Details: docs/S4_findings.md.
+  Release verified: kg.csv MD5 matches Dataverse file 6180620 (same file in v1.0/2.0/2.1);
+  7,370/7,633 BioHopR answer lists reproduced exactly from kg.csv. The paper's "202 side effects"
+  for Troglitazone is a 2-hop answer-list size (KG has 17), not a release mismatch.
+  nodes.tab identical to kg.csv's node set (no isolated nodes; same per-type counts).
+  OPEN DESIGN QUESTION — answer construction (options A/B/C in S4_findings.md): decide before S5.
+
 ## Latest commit
 c2c6ffd (S3: BioHopR diagnostics)
 
